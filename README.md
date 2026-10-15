@@ -1,5 +1,5 @@
 # Welcome to the Neuroscience Coding Club's Repository!  
-**We are a collection of students with the goal of teaching others, presenting ideas, collaborating, and creating a community environment.**  
+**The purpose of the Neuroscience Coding Club is to provide a forum to regularly meet throughout the year to discuss coding approaches related to neuroscience topics across a range of popular programming languages. Our organization serves to bridge the gap between neuroscientists and coders to demystify the intersection of these interdisciplinary fields.**  
 
 ## Links  
 * Join our discord  [here](https://discord.gg/bFVTGscbtE)!
