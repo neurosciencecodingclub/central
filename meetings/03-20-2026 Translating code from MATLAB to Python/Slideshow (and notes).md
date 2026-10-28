@@ -25,7 +25,7 @@ See the raw powerpoint [here](https://docs.google.com/presentation/d/1Jy-DHpR4Q5
 * Obtained by downloading
   
 ### <img width="1280" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/74bf919d-47a0-4341-8285-6edc2d2abbce" />
-  
+  ---
 ### Platform exclusive functions with software
 * MATLAB FFT vs python rFFT
 * MATLAB is bulky 
@@ -42,7 +42,7 @@ See the raw powerpoint [here](https://docs.google.com/presentation/d/1Jy-DHpR4Q5
   
 **Time efficient -** MATLAB  
 **Learning coding -** Python  
-  
+  ---
 ### <img width="1280" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/405216b3-de0c-4498-b0c1-29f6224021ec" />
   
 ### <img width="1280" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/2c3d073c-b559-47bf-a77a-1d16e55b4fd7" />
