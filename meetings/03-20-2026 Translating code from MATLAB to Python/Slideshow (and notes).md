@@ -10,7 +10,9 @@ See the raw powerpoint [here](https://docs.google.com/presentation/d/1Jy-DHpR4Q5
 ### <img width="1280" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/77e76d40-0413-4a0f-8a9b-ef518a79ff44" />
 
 ### <img width="1280" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/d9c51ee9-af19-4a23-b8f7-2af9962967c8" />
-  
+
+---
+
 ### Why MatLab?  
 * Connection to biological research
 * Universities commonly use
@@ -23,9 +25,13 @@ See the raw powerpoint [here](https://docs.google.com/presentation/d/1Jy-DHpR4Q5
 * Fun fact - AI is built on python
 * Every field has support programs within python 
 * Obtained by downloading
+
+---
   
 ### <img width="1280" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/74bf919d-47a0-4341-8285-6edc2d2abbce" />
-  ---
+
+---
+
 ### Platform exclusive functions with software
 * MATLAB FFT vs python rFFT
 * MATLAB is bulky 
@@ -42,11 +48,15 @@ See the raw powerpoint [here](https://docs.google.com/presentation/d/1Jy-DHpR4Q5
   
 **Time efficient -** MATLAB  
 **Learning coding -** Python  
-  ---
+  
+---
+  
 ### <img width="1280" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/405216b3-de0c-4498-b0c1-29f6224021ec" />
   
 ### <img width="1280" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/2c3d073c-b559-47bf-a77a-1d16e55b4fd7" />
   
+---
+
 ### Common file formats  
 * Generic Binary : `.dat`, `.bin`
 * Scientific Data: `.h5` **(lifesaver in moving data)**, `.mat`
@@ -54,7 +64,8 @@ See the raw powerpoint [here](https://docs.google.com/presentation/d/1Jy-DHpR4Q5
 ### Common environments
 * Anaconda
 * Miniconda
-
+  
+---
   
 ### <img width="1280" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/d779030c-2c32-44e0-bc86-b09b020b9ac7" />
   
@@ -81,15 +92,21 @@ See the raw powerpoint [here](https://docs.google.com/presentation/d/1Jy-DHpR4Q5
 <img width="1280" height="720" alt="Slide14" src="https://github.com/user-attachments/assets/5322ea83-218d-448e-8fc4-8af29865fdab" />
   
 ### MATLAB → Python: Must Have Packages  
+  
+---
+  
   [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?&logo=scipy&logoColor=%white) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)  
 * **Numpy :** mathematical operations
 * **Matplotlib:** Plotting and visualization
 * **Scipy:** Science focused functions
 * **Pandas:** Organizing and labeling (Used often for big data sets)
-
+  
+---
   
 ### <img width="1280" height="720" alt="Slide15" src="https://github.com/user-attachments/assets/88d458e6-218a-4de2-b797-c7c4d24e2462" />
-
+  
+---
+  
 ### How data is handled
 | | MATLAB | Python |
 |-|    -   |    -   |
@@ -109,6 +126,8 @@ See the raw powerpoint [here](https://docs.google.com/presentation/d/1Jy-DHpR4Q5
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)  
   * Github
   * Jupyter Notebook
-
+  
+---
+  
 ### <img width="1280" height="720" alt="Slide16" src="https://github.com/user-attachments/assets/f5aeae50-f572-44e5-a8e3-2c41b583c8f5" />
   
