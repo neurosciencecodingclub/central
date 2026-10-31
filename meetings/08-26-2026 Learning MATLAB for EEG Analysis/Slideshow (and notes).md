@@ -4,7 +4,7 @@ See the raw powerpoint *with slide numbers* [here](https://docs.google.com/prese
 
 *Note.* In the attached `.m` file, I realized some variable names were unnecessarily... verbose. The changes were minimal, but note that there will be slight deviations in variable names from the slideshow.
 
-*Note.* Currently, there is no attached data. It is currently built to import CURRY data. Feel free to read through the file and apply it to your own data/publicly available data sets.
+*Note.* Currently, there is no attached data. It is currently built to [import CURRY](https://github.com/mattpontifex/loadcurry) data. Feel free to read through the file and apply it to your own data/publicly available data sets.
 
 ## Slides and Minutes
 <img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/8acb8281-635d-4373-a986-ead7e15ccc95" />
