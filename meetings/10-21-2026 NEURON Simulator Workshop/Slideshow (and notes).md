@@ -8,8 +8,8 @@ See the raw powerpoint [here](https://drive.google.com/file/d/1MRYVsnqoxv5FVLu_-
 <img width="4400" height="2475" alt="Slide1" src="https://github.com/user-attachments/assets/a9abe1d5-f892-4035-80e1-c9f41c2d1e05" />
 <img width="4400" height="2475" alt="Slide2" src="https://github.com/user-attachments/assets/961d2c4f-affe-4c5e-b7c7-ff5195296a9b" />
 <img width="4400" height="2475" alt="Slide3" src="https://github.com/user-attachments/assets/638a28c2-8798-4c23-8e20-28d018ef5299" />
-<img width="4400" height="2475" alt="Slide4" src="https://github.com/user-attachments/assets/5859a8f1-3d18-4ba7-9851-16668b299e13" />
-<img width="4400" height="2475" alt="Slide5" src="https://github.com/user-attachments/assets/7723e7b3-622e-4736-b1d2-348d5af43f4f" />
+### <img width="4400" height="2475" alt="Slide4" src="https://github.com/user-attachments/assets/5859a8f1-3d18-4ba7-9851-16668b299e13" />
+### <img width="4400" height="2475" alt="Slide5" src="https://github.com/user-attachments/assets/7723e7b3-622e-4736-b1d2-348d5af43f4f" />
 
 ---
 
@@ -17,15 +17,15 @@ Using a modified Ohm’s law we describe a biological system using the physical 
 * Meaning, neuronal properties like ion movement are represented by mathematical equations that can explain or simulate neuronal activity
 
 Where:
-    $I$ = current
-    $g$ = conductance
-    $V$ = voltage
-    $E$ = equilibrium potential
+* $I$ = current
+* $g$ = conductance
+* $V$ = voltage
+* $E$ = equilibrium potential
 
 
 ---
 
-<img width="4400" height="2475" alt="Slide6" src="https://github.com/user-attachments/assets/022fbeb7-e0b5-41ac-a9be-37f9bc7ab8e4" />
+### <img width="4400" height="2475" alt="Slide6" src="https://github.com/user-attachments/assets/022fbeb7-e0b5-41ac-a9be-37f9bc7ab8e4" />
 
 ---
 
@@ -39,14 +39,14 @@ Let us focus on Na<sup>+</sup> and K<sup>+</sup> because their movement across t
 
 ---
 
-Neurons naturally maintain different ion concentrations across their membranes: sodium (Na⁺) is more concentrated outside the cell, while potassium (K⁺) is more concentrated inside. 
+Neurons naturally maintain different ion concentrations across their membranes: sodium (Na<sup>+</sup>) is more concentrated outside the cell, while potassium (K<sup>+</sup>) is more concentrated inside. 
 * We know that ions tend to move down their concentration gradients, from higher to lower concentrations, but ions also carry electrical charges
 * Which means they are also influenced by the electrical potential difference across the membrane
 
 Together, the concentration difference and membrane voltage create a driving force on each ion.
-* $g_Na$ or sodium conductance describes how easily Na⁺ can cross the membrane through available/open Na+ channels
+* $g_{Na}$ or sodium conductance describes how easily Na⁺ can cross the membrane through available/open Na+ channels
 * $g_K$ or potassium conductance describes how easily K⁺ crosses the membrane through available/open K+ channels
-* $g_L$ represents the collective ”Leak” of all other channels & associated ions (H+, Ca2+, Cl-, etc.)
+* $g_L$ represents the collective "Leak" of all other channels & associated ions (H<sup>+</sup>, Ca<sup>2+</sup>, Cl<sup>-</sup>, etc.)
 
 ---
 
@@ -63,10 +63,10 @@ This circuit is a simplified electrical equivalent of a biological neuron's memb
 
 ---
 
-What is the significance of studying a single axon in isolation?
+**What is the significance of studying a single axon in isolation?**
 * One can examine the fundamental mechanisms of neuronal signaling without the added complexity of an entire neural network
 
-How does this base understanding contribute to broader goals like untangling network activity?
+**How does this base understanding contribute to broader goals like untangling network activity?**
 * a foundational understanding helps explain findings and measurements of network activity 
 
 ---
@@ -86,4 +86,4 @@ Both are valuable, evaluate and understand trade-offs when choosing between wet-
 
 <img width="4400" height="2475" alt="Slide11" src="https://github.com/user-attachments/assets/b111e035-a8de-47fe-a72a-5b33b2f57b0b" />
 
-Following this slide, we handed off the presentation to the Brainwave Society over the .ipynb in this fol
+Following this slide, we handed off the presentation to the Brainwave Society over the .ipynb in this folder.
