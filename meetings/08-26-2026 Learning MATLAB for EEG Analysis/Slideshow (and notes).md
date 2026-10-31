@@ -1,6 +1,8 @@
 # Learning MATLAB for EEG Analysis
 ### Presented by Harish Dharshan, BSc Neuroscience Student  ⬩  **08/26/2026**
-See the raw powerpoint [here](https://docs.google.com/presentation/d/1rTIB8FELPAC25EZzCEXcyzEbp6Qhc-Y-/edit?usp=sharing&ouid=101472612575020551817&rtpof=true&sd=true)
+See the raw powerpoint *with slide numbers* [here](https://docs.google.com/presentation/d/1rTIB8FELPAC25EZzCEXcyzEbp6Qhc-Y-/edit?usp=sharing&ouid=101472612575020551817&rtpof=true&sd=true)
+
+*Note.* In the attached `.m` file, I realized some variable names were unnecessarily... verbose. The changes were minimal, but note that there will be slight deviations in variable names from the slideshow.
 
 ## Slides and Minutes
 <img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/8acb8281-635d-4373-a986-ead7e15ccc95" />
