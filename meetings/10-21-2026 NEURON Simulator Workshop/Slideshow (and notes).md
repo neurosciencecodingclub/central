@@ -2,7 +2,7 @@
 ### Presented by the Brainwave Society and Neuroscience Coding Club  ⬩  **10/21/2026**
 See the raw powerpoint [here](https://drive.google.com/file/d/1MRYVsnqoxv5FVLu_-Buc_fzsUGe6a1vo/view?usp=sharing)  
 
-*Note.* The attached .ipynb is identical to [this Colab Notebook](https://colab.research.google.com/drive/12bk2Ak5HEUlr8m7ajVuqIgO0WUvfdFr5?usp=sharing). We presented on the Colab Notebook but have also uploaded an identical .ipynb to this folder for convenience. 
+*Note.* The attached `.ipynb` is identical to [this Colab Notebook](https://colab.research.google.com/drive/12bk2Ak5HEUlr8m7ajVuqIgO0WUvfdFr5?usp=sharing). We presented on the Colab Notebook but have also uploaded an identical `.ipynb` to this folder for convenience. 
 
 ## Slides and Minutes
 <img width="4400" height="2475" alt="Slide1" src="https://github.com/user-attachments/assets/a9abe1d5-f892-4035-80e1-c9f41c2d1e05" />
@@ -88,4 +88,4 @@ Both are valuable, evaluate and understand trade-offs when choosing between wet-
 
 <img width="4400" height="2475" alt="Slide11" src="https://github.com/user-attachments/assets/b111e035-a8de-47fe-a72a-5b33b2f57b0b" />
 
-Following this slide, we handed off the presentation to the Brainwave Society over the .ipynb in this folder.
+Following this slide, we handed off the presentation to the Brainwave Society over the `.ipynb` in this folder.
